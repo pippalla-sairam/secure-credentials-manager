@@ -22,7 +22,7 @@ A lightweight and secure credentials manager built with **Vite + React** that al
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/secure-credentials-manager.git
+   git clone https://github.com/pippalla-sairam/secure-credentials-manager.git
    cd secure-credentials-manager
    ```
 
