@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav className='bg-slate-800 text-white'>
             <div className="md:px-40 flex justify-between items-center px-4 py-4 h-14">
                 <div className="logo font-bold text-white text-2xl cursor-pointer">
-                    <a href='https://secure-credentials-manager.netlify.app/'><span className='text-green-500'>&lt;</span>
+                    <a href='/'><span className='text-green-500'>&lt;</span>
                     <span>Pass</span><span className='text-green-500'>OP/&gt;</span></a>
                 </div>
                 
